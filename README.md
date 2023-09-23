@@ -9,10 +9,6 @@ Welcome to the Responsive Analog Clock, a beautifully designed clock that not on
 - **Responsive Layout**: Adapts effortlessly to different screen sizes.
 - **Clean and Elegant**: Offers a simple yet sophisticated timekeeping solution.
 
-## Try it Out
-
-View the [Responsive Analog Clock](https://rohitbharti279.github.io/Analog_Clock/) in action!
-
 ## Getting Started
 
 1. **Clone or Download**: Clone or download the code from the [GitHub repository](https://github.com/rohitbharti279/Analog_Clock).
